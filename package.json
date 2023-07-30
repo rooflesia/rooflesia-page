@@ -1,5 +1,5 @@
 {
-  "name": "rooflesia-com",
+  "name": "rooflesia",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -23,7 +23,9 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-icons": "^4.7.1",
-    "react-sketch-canvas": "^6.2.0"
+    "react-no-ssr": "^1.1.0",
+    "react-sketch-canvas": "^6.2.0",
+    "typewriter-effect": "^2.19.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
